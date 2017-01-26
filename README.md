@@ -7,6 +7,6 @@ This js use for multi page.
 
 You can launch the app from the Terminal:
 
-	$ bower install spechtml
+	$ git clone "https://github.com/nhimspec/DomBaseRouting"
 
 
